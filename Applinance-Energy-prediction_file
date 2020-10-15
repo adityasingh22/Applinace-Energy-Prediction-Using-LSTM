@@ -1,0 +1,2 @@
+The proposed CNN-LSTM method achieves almost perfect prediction performance for electric energy consumption that was previously difficult to predict.
+Also, it records the smallest value of root mean square error compared to the conventional forecasting methods for the dataset on individual household power consumption.
